@@ -2,9 +2,17 @@
 
 > A Vue.js project
 
+``` bash
+技能描述:
+    •HTML+CSS页面UI的搭建
+    •采用Vue框架进行页面设计及功能的实现
+    •商品页信息运用IScroll点击对应跳转到相应位置及滚动高亮效果
+    •运用Vuex实现商品信息添加到购物车的数据联动
+    •运用EX6语法编写功能代码，运用less预编译语言编写CSS样式
+    •运用axios获取后台json数据
+
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
